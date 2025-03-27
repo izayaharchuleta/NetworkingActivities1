@@ -1,5 +1,5 @@
 # Networking Activities Lab 1 (Observing ICMP Traffic)
-This lab kicks off a demo series of my networking and remote desktop skills. I use Microsoft Remote Connection to observe ICMP traffic between two Azure VMs. Using PowerShell, I ping one VM from the other and monitor the ICMP packets with Wireshark.
+This lab kicks off a demo series of my networking and remote desktop skills. I use Microsoft Remote Connection to observe ICMP traffic between two Azure VMs. Using PowerShell, I ping one VM from the other and monitor the ICMP packets with Wireshark. Note that I will be using the virtual machines (VM's) from this lab in future labs as well. 
 
 
 <h2>Programs, Languages, and Utilities Used</h2>
